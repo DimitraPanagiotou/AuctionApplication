@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AuctionApplication/static/css/main.b100e6da.chunk.css",
+    "main.js": "/AuctionApplication/static/js/main.669f8b8b.chunk.js",
+    "main.js.map": "/AuctionApplication/static/js/main.669f8b8b.chunk.js.map",
+    "runtime-main.js": "/AuctionApplication/static/js/runtime-main.cce14543.js",
+    "runtime-main.js.map": "/AuctionApplication/static/js/runtime-main.cce14543.js.map",
+    "static/js/2.62439e57.chunk.js": "/AuctionApplication/static/js/2.62439e57.chunk.js",
+    "static/js/2.62439e57.chunk.js.map": "/AuctionApplication/static/js/2.62439e57.chunk.js.map",
+    "index.html": "/AuctionApplication/index.html",
+    "precache-manifest.0197594b9f65423c88b798831049f68d.js": "/AuctionApplication/precache-manifest.0197594b9f65423c88b798831049f68d.js",
+    "service-worker.js": "/AuctionApplication/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/AuctionApplication/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cce14543.js",
+    "static/js/2.62439e57.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.669f8b8b.chunk.js"
+  ]
+}
